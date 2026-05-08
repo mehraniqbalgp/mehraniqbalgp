@@ -25,8 +25,6 @@
 
 ## ◈ &nbsp;`whoami`
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 ```bash
 ┌──[root@mehraniqbalgp]─[~]
 └─$ cat about.txt
@@ -57,7 +55,9 @@
   "Automate the boring. Build the interesting."
 ```
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ---
 
