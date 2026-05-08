@@ -72,13 +72,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  RETRAX  //  retrax.co                                    [ONLINE]      ║
+║  RETRAX  //  retrax.co                                    [ONLINE]       ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
 ║  [01]  Voice AI Platform                                                 ║
 ║  ───────────────────────────────────────────────────────────────────     ║
 ║  AI receptionists handling inbound calls, lead qualification             ║
-║  and appointment booking — 24/7, zero human overhead.                   ║
+║  and appointment booking — 24/7, zero human overhead.                    ║
 ║                                                                          ║
 ║  [02]  Sales Automation Stack                                            ║
 ║  ───────────────────────────────────────────────────────────────────     ║
